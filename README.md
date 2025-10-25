@@ -17,6 +17,7 @@ year, plot summary, cast, and more.
 
 
 
+
 1.Introduction:
 
 
@@ -37,6 +38,8 @@ Responsive : It is accessible across devices (desktop,mobile).
 Database : For this Movie Database API is used ( IMDB API).
 
 
+
+
 2.Technologies used:
 
 
@@ -47,6 +50,8 @@ CSS (Cascading Styling Sheet)
 Javascript
 
 Database (Information)
+
+
 
 
 3.Applications:
@@ -63,13 +68,15 @@ Database (Information)
 5.Old to New movies all are available with adfree opensource website.
 
 
+
+
 4.Results and Discussions:
 
 
 STEP 1: Open web page 
 STEP 2:  Home Page:
    In search bar,type a movie name that what you want and click on search option or simply click on Enter.
-<img width="1816" height="183" alt="image" src="https://github.com/user-attachments/assets/56e1cb8b-6a6b-4407-add1-e385fd776659" />
+Picture1.png
 STEP 3: Result Page:
            It will shows the results according to the user search.
 <img width="735" height="140" alt="image" src="https://github.com/user-attachments/assets/21ca7d5f-ba5c-4054-8b60-e20518d3c44f"/>
