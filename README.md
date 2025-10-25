@@ -75,11 +75,16 @@ Database (Information)
 
 STEP 1: Open web page 
 STEP 2:  Home Page:
+
    In search bar,type a movie name that what you want and click on search option or simply click on Enter.
 Picture1.png
+
 STEP 3: Result Page:
+
            It will shows the results according to the user search.
-<img width="735" height="140" alt="image" src="https://github.com/user-attachments/assets/21ca7d5f-ba5c-4054-8b60-e20518d3c44f"/>
+           
+https://github.com/Ashok-Nani/Movie-finder-website/blob/f6127df0f8418a8096210dede28e020b9132f982/Picture2.png
+
 
 
 5.Future enhancements:
