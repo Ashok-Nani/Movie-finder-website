@@ -3,13 +3,22 @@ year, plot summary, cast, and more.
 
 
 1.Introduction
+
 2.Technologies used
+
 3.Applications
+
 4.Results and Discussion
+
 5.Future Enhancement
+
 6.Conclusion
 
+
+
+
 1.Introduction:
+
 
 From TV Guide Online – a searchable database (see Movie Reviews) that includes the cast,credits and reviews for some 40,000 movies released in the U.S,INDIA.
 
@@ -30,13 +39,18 @@ Database : For this Movie Database API is used ( IMDB API).
 
 2.Technologies used:
 
+
 HTML (Hyper Text Markup Language)
+
 CSS (Cascading Styling Sheet)
+
 Javascript
+
 Database (Information)
 
 
 3.Applications:
+
 
 1.Easy Movie Discovery and Exploration.
 
@@ -52,7 +66,7 @@ Database (Information)
 4.Results and Discussions:
 
 
-STEP 1: Open web page  (Home Page)
+STEP 1: Open web page 
 STEP 2:  Home Page:
    In search bar,type a movie name that what you want and click on search option or simply click on Enter.
 <img width="1816" height="183" alt="image" src="https://github.com/user-attachments/assets/56e1cb8b-6a6b-4407-add1-e385fd776659" />
@@ -60,15 +74,22 @@ STEP 3: Result Page:
            It will shows the results according to the user search.
 <img width="735" height="140" alt="image" src="https://github.com/user-attachments/assets/21ca7d5f-ba5c-4054-8b60-e20518d3c44f"/>
 
+
 5.Future enhancements:
 
+
 Implement machine learning algorithms to enhance better performance and features.
+
 Using more features in order to add more options and more details with trailers.
+
 Implement  personalized notifications for users and advanced search filters.
+
 Develop an offline mode,allowing users to download the movies to watch without using Internet.
 
 
 6.Conclusion:
+
+
 The Movie Finder Project in web development presents an exciting and dynamic platform for cinephiles and movie enthusiasts alike.By combining user – friendly design,attractively and creates a unique space for exploring the vast world of cinema.
 
 
